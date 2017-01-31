@@ -1,7 +1,7 @@
 ##ReactTimer App
-#####**Getting started**
+####**Getting started**
 
- - Run: git clone `https://github.com/getwebem/Jumpstart-Angular-1.x.git`
+ - Run: `git clone https://github.com/getwebem/ReactTimer-App.git`
  - Run:  `git install`
  - Run:  `node server.js`
  - Run:  `webpack -w`
