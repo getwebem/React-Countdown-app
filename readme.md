@@ -1,11 +1,6 @@
 ##ReactTimer App
 ####**Getting started**
-
-<<<<<<< HEAD
- - git clone:  ``
-=======
- - Run: `git clone https://github.com/getwebem/ReactTimer-App.git`
->>>>>>> origin/master
+ - git clone:  `https://github.com/getwebem/ReactTimer-App.git`
  - Run:  `git install`
  - Run:  `node server.js`
  - Run:  `webpack -w`
