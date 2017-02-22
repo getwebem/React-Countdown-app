@@ -6,4 +6,4 @@
  - Run:  `node server.js`
  - Run:  `webpack -w`
  - Run:  `npm test`
- - Open: `localhost:3000`
+ - Open: `http://localhost:3000/`
