@@ -1,8 +1,8 @@
-# Timer app
+# Countdown app
 ### Technologies Used:
 #### HTML5, CSS3, React.js, Sass, Foundation 5.5, npm, Firebase, JSON, Webpack, Karma, Mocha, jQuery, Babel, JSX, ES6, React-router, Axios, Express
- - Run  :  `git clone https://github.com/getwebem/ReactTimer-App.git`
- - Run  :  `cd ReactTimer-App`
+ - Run  :  `git clone https://github.com/getwebem/React-Countdown-app.git`
+ - Run  :  `cd React-Countdown-app`
  - Run  :  `npm install`
  - Run  :  `npm start`
  - Run  :  `http://localhost:3000/`
